@@ -37,7 +37,7 @@
 
  ## OUTPUT
 
- ![EDM ex_2_page-0001](https://github.com/user-attachments/assets/466837f2-b0da-4464-ae90-9a5585f3d8c7)
+![exp_ 2 Drawing_page-0001](https://github.com/user-attachments/assets/27f7a756-cdcb-4007-901c-a02aba3a91c1)
 
  
  ## RESULT
